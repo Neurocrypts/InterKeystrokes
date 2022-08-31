@@ -1,0 +1,8 @@
+This info is for me, usually not useful for others.
+But if you're reading this, have a cookie 🍪
+
+Keys -> WASDRF, TAB, SPACE, SHIFT
+Mapped -> SPACE
+ Need mapping -> R, F
+ 
+Layout Version -> v1.0f (Old, compact, 3r4c, no stickout)
