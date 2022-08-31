@@ -1,4 +1,4 @@
-# Inter-Keystrokes
+# InterKeystrokes
 A custom made input overlay preset for a Roblox game called JToH.
 
 # How to install?
