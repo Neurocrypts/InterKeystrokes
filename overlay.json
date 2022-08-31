@@ -1,0 +1,83 @@
+{
+  "default_width": 0,
+  "default_height": 0,
+  "space_h": 0,
+  "space_v": 0,
+  "flags": 0,
+  "overlay_width": 531,
+  "overlay_height": 386,
+  "elements": [
+    {
+      "type": 1,
+      "pos": [141, 1],
+      "id": "Restart",
+      "z_level": "0",
+      "mapping": [1, 1, 128, 128],
+      "code": 19
+    },
+    {
+      "type": 1,
+      "pos": [272, 1],
+      "id": "Walk Forwards",
+      "z_level": 0,
+      "mapping": [132, 1, 128, 128],
+      "code": 17
+    },
+    {
+      "type": 1,
+      "pos": [141, 129],
+      "id": "Strafe Left",
+      "z_level": 0,
+      "mapping": [394, 1, 128, 128],
+      "code": 30
+    },
+    {
+      "type": 1,
+      "pos": [272, 129],
+      "id": "Walk Backwards",
+      "z_level": 0,
+      "mapping": [524, 1, 128, 128],
+      "code": 31
+    },
+    {
+      "type": 1,
+      "pos": [402, 129],
+      "id": "Strafe Right",
+      "z_level": 0,
+      "mapping": [656, 1, 128, 128],
+      "code": 32
+    },
+    {
+      "type": 1,
+      "pos": [141, 258],
+      "id": "Jump",
+      "z_level": "0",
+      "mapping": [787, 1, 390, 128],
+      "code": 57
+    },
+    {
+      "type": 1,
+      "pos": [10, 258],
+      "id": "Shiftlock",
+      "z_level": 0,
+      "mapping": [1, 263, 128, 128],
+      "code": 42
+    },
+    {
+      "type": 1,
+      "pos": [10, 129],
+      "id": "Tab",
+      "z_level": 0,
+      "mapping": [132, 263, 128, 128],
+      "code": 15
+    },
+    {
+      "type": 1,
+      "pos": [402, 1],
+      "id": "Flip",
+      "z_level": 0,
+      "mapping": [263, 1, 128, 128],
+      "code": 33
+    }
+  ]
+}
